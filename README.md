@@ -1,9 +1,9 @@
 # PHP QCM
 Ce repo a pour but de vous aider à maîtriser PHP. Il est structuré en plusieurs sections couvrant les fondamentaux du langage, les fonctions, la manipulation de fichiers, les bases de données et d'autres concepts avancés.
 
-Chaque section correspond à une branche Git distincte. Pour répondre aux questions, vous devez vous placer sur la branche appropriée, ajouter vos réponses, puis soumettre.
-
 ## Comment ça fonctionne ?
+
+Chaque section correspond à une branche Git distincte. Pour répondre aux questions, vous devez vous placer sur la branche appropriée, ajouter vos réponses, puis soumettre.
 
 ### Forker le repo vers votre compte Github
 
